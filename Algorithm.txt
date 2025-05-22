@@ -1,0 +1,17 @@
+1. Start
+2. Display the hospital management system header
+3. Perform login:
+   a. Prompt for username and password
+   b. Validate credentials
+4. If login is invalid:
+   a. Print error message
+   b. Loop back to login
+5. If role is admin:
+   a. Show admin menu options
+   b. Repeat until user chooses to logout or exit
+6. If role is doctor:
+   a. Show doctor view-only menu
+   b. Repeat until user chooses to logout or exit
+7. If user selects exit:
+   a. Display goodbye message
+   b. End program
